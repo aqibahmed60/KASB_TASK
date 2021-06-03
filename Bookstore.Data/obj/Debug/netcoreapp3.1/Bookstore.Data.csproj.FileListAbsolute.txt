@@ -1,0 +1,12 @@
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\bin\Debug\netcoreapp3.1\Bookstore.Data.deps.json
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\bin\Debug\netcoreapp3.1\Bookstore.Data.dll
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\bin\Debug\netcoreapp3.1\Bookstore.Data.pdb
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.csprojAssemblyReference.cache
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.AssemblyInfoInputs.cache
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.AssemblyInfo.cs
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.csproj.CoreCompileInputs.cache
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.dll
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.pdb
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\bin\Debug\netcoreapp3.1\Bookstore.Data.runtimeconfig.json
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\bin\Debug\netcoreapp3.1\Bookstore.Data.runtimeconfig.dev.json
+C:\Users\aqiba\source\repos\RestApi\Bookstore.Data\obj\Debug\netcoreapp3.1\Bookstore.Data.genruntimeconfig.cache
